@@ -1,21 +1,7 @@
-```text
-srujan@github:~$ whoami
-Srujan Ponnapalli
-
-engineer building useful systems for complicated, real-world problems
-
-srujan@github:~$ status
-school      NC State University
-studying    CS + economics + mathematics
-graduating  May 2028
-
-current     AIMS Lab - ML for PFAS persistence
-last        RENCI / iRODS - research data infrastructure
-incoming    your team?
-
-srujan@github:~$ interests
-data infrastructure / ML for science
-research tooling / public-interest tech
-```
-
-[see more at srujanponnapalli.com](https://srujanponnapalli.com)
+<a href="https://srujanponnapalli.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+    <img alt="Srujan Ponnapalli's GitHub profile" src="dark_mode.svg">
+  </picture>
+</a>
